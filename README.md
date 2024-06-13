@@ -23,4 +23,7 @@ My suggestion would be to offer prescription medication
 Customers will have easy subscription and deliverable medication at fair prices
 Technolgies that can be used is Mychart and price comparisons
 My technologies are appropriate but have to have strong cyper security.
-
+(https://www.xsellco.com/resources/amazon-performance-metrics/)
+https://thinkmonsters.com/speakinghuman/media/amazon-game-changing-innovations/
+https://medium.com/@pratitisoumya/the-story-of-amazon-com-jeff-bezos-innovation-customer-centricity-d490f6a3c642
+https://sites.lsa.umich.edu/mje/2023/05/01/the-history-of-amazon-and-its-rise-to-success/
