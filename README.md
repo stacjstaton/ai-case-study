@@ -1,31 +1,26 @@
-# ai-case-study
-## Module 1 Challenge: AI Case Study
-The name of my case study company is Amazon.
-Incorporated in July 5, 1994.
-Founded by Jeff Bezos and MacKenzie Scott.
-It started out as an online bookstore
-It was funded buy Jeff Bezos parents personal savings he recieved $250,000.
->"Bezos borrowed an initial capital of $300,000 from his parents, hired two computer programmers and founded the company in his garage in Washington in 1994. He envisioned the name Amazon from the World’s largest river."
-## Business Activities
-*medium.com* stated the problem he was trying to solve was selling books over the internet and organizing.
-Customers were interested in varies type of books. There were no information about the set of customers at the time.
-He wanted to creating a comprehesive catalogue and organziation. 
-*xsellco.com* states that the techology used is HTML, CSS, JavaScript, React, Redux and TypeScript.
-### Landscape
-Amazon is an online retail platform.
-In a article by *thinkmonsters.com* Major trends have Amazon have started were One-Click purchase, Alexa, Kindle, Cloud Computing.
-Other major companies includ Ebay, Netflix, Apple, Google.
-### Results
-Amazon has created hundreds to even thousands of jobs and changed the way consumers shop.
-Number one metric of Amazon ia customer satisfaction ODR, Pre-Fufillment Cancellation Rate.
-Amazon is number one based on its competitors at this current time.
-### Recommendations
-My suggestion would be to offer prescription medication. 
-Customers will have easy subscription and deliverable medication at fair prices.
-Technolgies that can be used is Mychart, Medicine insurance data analysis and price comparisons for cost.
-My technologies are appropriate but have to have strong cyper security because of internet fraud.
-### Links
-[((https://www.xsellco.com/resources/amazon-performance-metrics/)]
-[(https://thinkmonsters.com/speakinghuman/media/amazon-game-changing-innovations/)]
-[(https://medium.com/@pratitisoumya/the-story-of-amazon-com-jeff-bezos-innovation-customer-centricity-d490f6a3c6420]
-[(https://sites.lsa.umich.edu/mje/2023/05/01/the-history-of-amazon-and-its-rise-to-success/)]
+# Amazon AI Case Study
+
+## Overview
+This case study focuses on Amazon, one of the world's largest e-commerce and technology companies. Initially launched as an online bookstore in 1994 by Jeff Bezos, Amazon has since expanded into a multifaceted tech giant.
+
+### Quick Facts
+
+- **Founded:** July 5, 1994
+- **Founders:** Jeff Bezos and MacKenzie Scott
+- **Initial Investment:** $300,000 from Bezos' parents
+- **Headquarters:** Washington, USA
+
+Amazon was named after the world's largest river to reflect the company's ambition for global reach and growth.
+
+## Problem Statement
+
+Amazon's founder identified a gap in the market: consumers lacked a convenient, centralized platform for purchasing books online. By creating an organized, user-friendly catalog, Amazon addressed this need, aiming to provide a unique and broad selection of books. At launch, the company lacked specific data on customer preferences, so it aimed to gather insights over time.
+
+## Technology Stack
+
+Amazon uses a variety of modern tools and frameworks to support its high-performance e-commerce platform. Key technologies include:
+
+```plaintext
+- HTML, CSS, JavaScript
+- React, Redux, TypeScript
+- AWS (Amazon Web Services)
